@@ -4,13 +4,15 @@ This repository contains the analysis of the electric vehicle (EV) market using 
 
 ## Dataset
 
-The dataset used for this analysis is the "Electric Vehicle Population Data" containing information on EV registrations from 1997 to 2024. The data includes fields such as `Model Year`, `City`, `County`, `Electric Vehicle Type`, `Make`, `Model`, and `Electric Range`.
+The dataset used for this analysis is the "Electric Vehicle Population Data" containing information on EV registrations from 1997 to 2024. The data includes fields such as 'VIN (1-10)', 'County', 'City', 'State', 'Postal Code', 'Model Year','Make', 'Model', 'Electric Vehicle Type','Clean Alternative Fuel Vehicle (CAFV) Eligibility', 'Electric Range','Base MSRP', 'Legislative District', 'DOL Vehicle ID',
+'Vehicle Location', 'Electric Utility', '2020 Census Tract'
 
 ## Analysis Overview
 
 ### 1. Data Loading and Preprocessing
 
 The dataset is loaded and cleaned by removing any missing values.
+
 
 ### 2. EV Adoption Over the Years
 
