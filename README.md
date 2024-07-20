@@ -24,7 +24,9 @@ This section analyzes the trend of EV adoption over the years.
 - The year 2023 shows a particularly sharp increase in the number of registered EVs.
 
 ### 3. Geographical Distribution at County Level
-
+<div style="display: flex;">
+    <img src="https://github.com/aarish22/EVMarketSizeAnalysis/blob/main/Plots/Top%20cities%20in%20top%20counties.png" alt="Top Cities in Top Counties by EV Registrations" style="width: 100%; margin-right: 10px;">
+</div>
 Analyzing the distribution of EVs within the top counties and cities.
 
 **Insights:**
@@ -32,14 +34,20 @@ Analyzing the distribution of EVs within the top counties and cities.
 - King County dominates EV registrations among the three counties analyzed.
 
 ### 4. Distribution of Electric Vehicle Types
-
+<div style="display: flex;">
+    <img src="path_to_first_image" alt="Dashboard Overview" style="width: 50%; margin-right: 10px;">
+    <img src="path_to_second_image" alt="Transaction Report" style="width: 50%;">
+</div>
 Analyzing the popularity of different types of electric vehicles.
 
 **Insights:**
 - Battery Electric Vehicles (BEVs) are more popular than Plug-in Hybrid Electric Vehicles (PHEVs).
 
 ### 5. Popularity of EV Manufacturers
-
+<div style="display: flex;">
+    <img src="path_to_first_image" alt="Dashboard Overview" style="width: 50%; margin-right: 10px;">
+    <img src="path_to_second_image" alt="Transaction Report" style="width: 50%;">
+</div>
 Analyzing the top EV manufacturers based on the number of registered vehicles.
 
 **Insights:**
@@ -47,7 +55,10 @@ Analyzing the top EV manufacturers based on the number of registered vehicles.
 - Nissan and Chevrolet follow but with significantly fewer registrations than Tesla.
 
 ### 6. Distribution of Electric Vehicle Ranges
-
+<div style="display: flex;">
+    <img src="path_to_first_image" alt="Dashboard Overview" style="width: 50%; margin-right: 10px;">
+    <img src="path_to_second_image" alt="Transaction Report" style="width: 50%;">
+</div>
 Analyzing the distribution of electric vehicle ranges.
 
 **Insights:**
@@ -55,7 +66,10 @@ Analyzing the distribution of electric vehicle ranges.
 - The mean electric range is approximately 58.84 miles.
 
 ### 7. Forecasting Future EV Market Trends
-
+<div style="display: flex;">
+    <img src="path_to_first_image" alt="Dashboard Overview" style="width: 50%; margin-right: 10px;">
+    <img src="path_to_second_image" alt="Transaction Report" style="width: 50%;">
+</div>
 Using exponential growth to forecast the number of EVs for the next five years.
 
 **Insights:**
