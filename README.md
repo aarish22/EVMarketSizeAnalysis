@@ -54,8 +54,7 @@ Analyzing the top EV manufacturers based on the number of registered vehicles.
 
 ### 6. Distribution of Electric Vehicle Ranges
 <div style="display: flex;">
-    <img src="path_to_first_image" alt="Dashboard Overview" style="width: 50%; margin-right: 10px;">
-    <img src="path_to_second_image" alt="Transaction Report" style="width: 50%;">
+    <img src="https://github.com/aarish22/EVMarketSizeAnalysis/blob/main/Plots/Distribution%20of%20electric%20vehicle%20ranges.png" alt="Distribution of Electric Vehicle Ranges" style="width: 100%; margin-right: 10px;">
 </div>
 Analyzing the distribution of electric vehicle ranges.
 
