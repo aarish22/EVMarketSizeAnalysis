@@ -13,9 +13,10 @@ The dataset used for this analysis is the "Electric Vehicle Population Data" con
 
 The dataset is loaded and cleaned by removing any missing values.
 
-
 ### 2. EV Adoption Over the Years
-
+<div style="display: flex;">
+    <img src="https://github.com/aarish22/EVMarketSizeAnalysis/blob/main/Plots/EV%20Adoption%20Over%20time.png" alt="EV Adoption Over Time" style="width: 100%; margin-right: 10px;">
+</div>
 This section analyzes the trend of EV adoption over the years.
 
 **Insights:**
