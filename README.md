@@ -35,8 +35,7 @@ Analyzing the distribution of EVs within the top counties and cities.
 
 ### 4. Distribution of Electric Vehicle Types
 <div style="display: flex;">
-    <img src="path_to_first_image" alt="Dashboard Overview" style="width: 50%; margin-right: 10px;">
-    <img src="path_to_second_image" alt="Transaction Report" style="width: 50%;">
+    <img src="https://github.com/aarish22/EVMarketSizeAnalysis/blob/main/Plots/Distribution%20of%20vehicle%20types.png" alt="Distribution of Electric Vehicle Types" style="width: 100%; margin-right: 10px;">
 </div>
 Analyzing the popularity of different types of electric vehicles.
 
