@@ -44,8 +44,7 @@ Analyzing the popularity of different types of electric vehicles.
 
 ### 5. Popularity of EV Manufacturers
 <div style="display: flex;">
-    <img src="path_to_first_image" alt="Dashboard Overview" style="width: 50%; margin-right: 10px;">
-    <img src="path_to_second_image" alt="Transaction Report" style="width: 50%;">
+    <img src="https://github.com/aarish22/EVMarketSizeAnalysis/blob/main/Plots/top%2010%20popular%20ev%20makes.png" alt="Top 10 Popular EV Makes" style="width: 100%; margin-right: 10px;">
 </div>
 Analyzing the top EV manufacturers based on the number of registered vehicles.
 
